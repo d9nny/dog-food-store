@@ -1,0 +1,116 @@
+@import '../../../../styles/variables.less';
+
+nav.navbar {
+    padding: .75rem 1.5rem;
+    box-shadow: @box-shadow-1;
+    position: fixed;
+    z-index: 100;
+    background-color: @white;
+    width: 100%;
+    margin: 0;
+    height: @navbar-height;
+
+    .navbar-brand {
+        font-family: @header-font;
+        font-size: 1.75rem;
+        padding: 0 1rem;
+        color: @brand-primary-1;
+
+        @media (max-width: 768px) {
+            padding: .25rem 1rem;
+            margin-right: 0;
+        }
+
+        @media (max-width: 576px) {
+            padding: .25rem 0;
+        }
+    }
+
+    .navbar-collapse.collapse {
+        padding-right: 3.5rem;
+
+        @media (max-width: 768px) {
+            width: 200px;
+            position: absolute;
+            right: 5rem;
+            top: 4.5rem;
+            padding-right: 0;
+            background-color: #fff;
+            box-shadow: @box-shadow-1;
+
+            .navbar-nav {
+                padding: 1rem;
+                margin-right: 0;
+            }
+        }
+
+        @media (max-width: 576px) {
+            width: auto;
+            left: 1rem;
+            right: 1rem;
+        }
+    }
+
+    .navbar-nav {
+        .nav-item {
+            .nav-link {
+                padding-left: 1rem;
+                padding-right: 1rem;
+                border: none;
+                cursor: pointer;
+                font-weight: 500;
+                color: @brand-primary-1;
+
+                &:not(.disabled):hover {
+                    color: @text-color;
+                }
+
+                &.disabled {
+                    cursor: not-allowed;
+                    color: @grey-1;
+                }
+            }
+
+            .nav-item.active {
+                .nav-link {
+                    color: @text-color;
+                }
+            }
+        }
+    }
+
+    .icon-menu-container {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        padding: 0 1rem;
+
+        .nav-item{
+            .nav-link {
+                padding: .25rem .75rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            padding: .3rem .9rem;
+        }
+
+        @media (max-width: 576px) {
+            padding: .3rem 0rem;
+        }
+    }
+
+    #basket-btn {
+        display: flex;
+        align-items: baseline;
+
+        span {
+            padding-right: 3px;
+        }
+    }
+
+    @media (max-width: 768px) {
+        height: auto;
+    }
+}
