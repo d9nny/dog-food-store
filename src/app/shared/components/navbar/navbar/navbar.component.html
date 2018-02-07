@@ -1,0 +1,40 @@
+<nav class="navbar navbar-toggleable-md vertical-align fixed-top">
+
+    <a class="navbar-brand" href="#">Scratch</a>
+
+    <ul class="nav navbar-nav vertical-align ml-auto">
+
+        <app-navbar-links class="hidden-lg-down"></app-navbar-links>
+
+        <li class="nav-item hidden-lg-up d-inline-block dropdown nav-icon-item"
+            ngbDropdown>
+            <a class="nav-link navbar-toggler"
+               id="navbar-toggle"
+               ngbDropdownToggle>
+                <i class="fa fa-bars"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right"
+                 aria-labelledby="navbar-toggle"
+                 ngbDropdownMenu>
+                <ul>
+                    <app-navbar-links></app-navbar-links>
+                </ul>
+            </div>
+        </li>
+
+        <li class="nav-item d-inline-block dropdown nav-icon-item"
+            [autoClose]="false"
+            ngbDropdown>
+            <a class="nav-link"
+               id="basket-toggle"
+               ngbDropdownToggle>
+                <i class="fa fa-shopping-basket"></i>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right"
+                 aria-labelledby="basket-toggle"
+                 ngbDropdownMenu>
+                <app-basket></app-basket>
+            </div>
+        </li>
+    </ul>
+</nav>

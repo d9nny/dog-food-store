@@ -1,0 +1,40 @@
+<div id="basket">
+    <div class="header">
+        <div class="vertical-align">
+            <i class="fa fa-shopping-basket"></i>
+            <span class="total">{{ total * exchangeRate | currency: currentCurrency :true:'1.2-2' }}</span>
+
+            <div class="d-inline-block ml-auto"
+                 placement="bottom-right"
+                 ngbDropdown>
+                <button class="btn outline-default btn-xs dropdown-toggle"
+                        id="currency-dropdown"
+                        ngbDropdownToggle>{{ currentCurrency }}</button>
+                <div class="dropdown-menu dropdown-menu-right dropdown-overflow"
+                     aria-labelledby="currency-dropdown"
+                     ngbDropdownMenu>
+                     <ul>
+                        <li *ngFor="let currency of currencies">
+                            <a [ngClass]="{'active': currency === currentCurrency}"
+                               (click)="selectCurrency(currency)">{{ currency }}</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <button class="btn btn-secondary disabled full-width"
+                id="checkout-btn">Checkout</button>
+        <small class="danger-text"
+               *ngIf="errors.length">
+            <span>Sorry, we've run into some problems:</span><br/>
+            <ul *ngFor="let error of errors">
+                <li class="error-point">{{ error.message }}</li>
+            </ul>
+            <span>Try refreshing the page, if the problem persits, please contact customer care.</span>
+        </small>
+    </div>
+    <div class="products-container">
+        <app-basket-item *ngFor="let item of basket"
+                         [item]="item"></app-basket-item>
+    </div>
+</div>

@@ -7,7 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-
     onDeactivate() {
         document.getElementById('router-component').scrollTop = 0;
     }

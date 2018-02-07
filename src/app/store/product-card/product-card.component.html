@@ -1,0 +1,18 @@
+<div class="card">
+    <img class="thumbnail" src="{{ product.thumbnailUrl }}">
+    <h6 class="title">{{ product.title }}<br/><small>{{ product.size }}</small></h6>
+    <p class="price">{{ product.price | currency: 'GBP':true:'1.2-4' }}</p>
+
+    <div class="input-group">
+        <input name="quantity"
+               class="form-control"
+               type="number"
+               [(ngModel)]="qty"
+               (keyup.enter)="addToBasket()">
+
+        <span class="input-group-btn">
+            <button class="btn btn-primary center-shadow"
+                    (click)="addToBasket()">Add</button>
+        </span>
+    </div>
+</div>

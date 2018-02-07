@@ -7,14 +7,21 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { StoreModule } from './store/store.module';
 
+import { BasketService } from './shared/components/basket/service/basket.service';
 
 import { AppComponent } from './app.component';
-import { NavbarComponent } from './shared/components/navbar/navbar.component';
+import { NavbarComponent } from './shared/components/navbar/navbar/navbar.component';
+import { BasketComponent } from './shared/components/basket/basket/basket.component';
+import { BasketItemComponent } from './shared/components/basket/basket-item/basket-item.component';
+import { NavbarLinksComponent } from './shared/components/navbar/navbar-links/navbar-links.component';
 
 @NgModule({
     declarations: [
         AppComponent,
-        NavbarComponent
+        NavbarComponent,
+        BasketComponent,
+        BasketItemComponent,
+        NavbarLinksComponent,
     ],
     imports: [
         BrowserModule,
@@ -24,7 +31,9 @@ import { NavbarComponent } from './shared/components/navbar/navbar.component';
         StoreModule,
         RouterModule.forRoot([])
     ],
-    providers: [],
+    providers: [
+        BasketService,
+    ],
     bootstrap: [AppComponent]
 })
 export class AppModule { }

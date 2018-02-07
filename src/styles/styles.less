@@ -1,92 +1,12 @@
+@import './base-styles.less';
 @import './variables.less';
-// @import './components.less';
+
+// Components
+
+@import './components/card.less';
+@import './components/dropdown.less';
+
+// Mixins
+
 @import './mixins/buttons.less';
-
-body {
-    background-color: @off-white-1;
-    color: @text-color;
-    line-height: 1;
-}
-
-h1, h2, h3 {
-    font-family: @header-font;
-    color: @heading-color;
-    line-height: 1.2;
-    margin-bottom: 1.5rem;
-}
-
-h4, h5, h6, p, input, textarea {
-    font-family: @body-font;
-}
-
-h4, h5, h6 {
-    color: @heading-color;
-    line-height: 1.5;
-    margin-bottom: .5rem;
-}
-
-p {
-    color: @text-color;
-}
-
-a {
-    color: @brand-primary-1;
-    cursor: pointer;
-
-    &:hover,
-    &:focus {
-        text-decoration: none;
-    }
-}
-
-button.btn {
-    &:focus {
-        outline: none;
-        -webkit-box-shadow: none;
-        box-shadow: none;
-    }
-}
-
-:focus {
-    outline: none;
-}
-
-.section {
-    padding-top: 6rem;
-    padding-bottom: 6rem;
-
-    .title-container {
-        text-align: center;
-
-        h1 {
-            font-size: 4rem;
-        }
-
-        h2 {
-            font-size: 3rem;
-        }
-    }
-}
-
-.vertical-align {
-    display: flex;
-    align-items: center;
-}
-
-.justify-content-center {
-    margin: auto;
-}
-
-.text-left {
-    text-align: left;
-}
-.text-center {
-    text-align: center;
-}
-.text-right {
-    text-align: right;
-}
-
-.danger-text {
-    color: @brand-danger-1;
-}
+@import './mixins/scroll.less';

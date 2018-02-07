@@ -1,0 +1,10 @@
+@import '../styles/variables.less';
+
+@page-container-padding: 1.8125rem;
+
+#page-container {
+    padding-top:  ~"calc(@{page-container-padding} + @{navbar-height})";
+    padding-bottom:  @page-container-padding;
+    position: relative;
+    background-color: @off-white-1;
+}

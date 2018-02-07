@@ -1,0 +1,104 @@
+@import '../../../../../styles/variables.less';
+
+nav.navbar {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    padding: .75rem 1.5rem;
+    box-shadow: @box-shadow-1;
+    position: fixed;
+    z-index: 100;
+    background-color: @white;
+    width: 100%;
+    margin: 0;
+    height: @navbar-height;
+
+    .navbar-brand {
+        font-family: @header-font;
+        font-size: 1.75rem;
+        color: @brand-primary-1;
+
+        @media (min-width: 546px) {
+            padding-left: 1rem;
+        }
+    }
+
+    .navbar-nav {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+
+        > app-navbar-links {
+            display: -webkit-box;
+        }
+
+        /deep/ .nav-item {
+
+            .nav-link {
+                cursor: pointer;
+                font-weight: 500;
+                color: @text-color;
+                padding: .25rem .5rem;
+
+                &:not(.disabled):hover {
+                    color: @brand-primary-1;
+                }
+
+                &.disabled {
+                    cursor: not-allowed;
+                    color: @grey-1;
+                }
+
+                &.active {
+                    color: @brand-primary-1;
+                }
+            }
+        }
+
+        .dropdown {
+            position: relative;
+
+            .dropdown-menu {
+                top: 3.5rem !important;
+
+                /deep/ .nav-link {
+                    padding: .5rem 1rem;
+                }
+
+                @media (max-width: 568px) {
+                    right: -1.5rem !important;
+                    width: 100vw;
+                    height: 100vh;
+
+                    /deep/ #basket {
+                        width: 100%;
+                    }
+                }
+            }
+        }
+
+        .nav-icon-item {
+            .nav-link {
+                padding: .25rem .75rem;
+
+                &::after {
+                    display: none;
+                }
+
+                .fa-shopping-basket {
+                    padding-bottom: .1rem;
+                }
+            }
+
+            &:last-child {
+                padding-right: 0;
+
+                @media (min-width: 546px) {
+                    padding-right: 1rem;
+                }
+            }
+        }
+    }
+}

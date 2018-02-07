@@ -1,0 +1,22 @@
+<div class="product-container row no-gutters vertical-align"
+     *ngIf="item">
+    <div class="col-5">
+        <small class="title">{{ item.product.title }}<br/>{{ item.product.size }}</small>
+    </div>
+    <div class="col-2">
+        <input name="quantity"
+               class="form-control"
+               type="number"
+               [(ngModel)]="item.qty"
+               (change)="updateBasket()">
+    </div>
+    <div class="col-4">
+        <span class="price">{{ item.product.price * item.qty * exchangeRate | currency: currentCurrency :true:'1.2-2' }}</span>
+    </div>
+    <div class="col-1">
+        <button class="remove-btn btn outline-danger btn-xs"
+                (click)="removeFromBasket()">
+            <i class="fa fa-times"></i>
+        </button>
+    </div>
+</div>
