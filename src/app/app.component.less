@@ -1,10 +1,15 @@
 @import '../styles/variables.less';
+@import '../styles/mixins/scroll.less';
 
 @page-container-padding: 1.8125rem;
 
 #page-container {
-    padding-top:  ~"calc(@{page-container-padding} + @{navbar-height})";
+    // padding-top:  ~"calc(@{page-container-padding} + @{navbar-height})";
+    margin-top: @navbar-height;
+    padding-top: @page-container-padding;
     padding-bottom:  @page-container-padding;
     position: relative;
     background-color: @off-white-1;
+    height: 100vh;
+    .scroll();
 }
