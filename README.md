@@ -1,7 +1,16 @@
 # DogFoodStore
 
 Fake ecommerce store selling dog food. The basket allows the user to change the currency of the basket.
-Unit tested
+
+### To do
+
+- Unit test
+- Brand style
+- Checkout
+- Contact us page
+- Product detail page
+- Product filter
+- Landing page
 
 
 ## Development server

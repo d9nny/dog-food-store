@@ -1,12 +1,14 @@
 @import '../../../../../styles/variables.less';
 
+@nav-shadow: @box-shadow-1;
+
 nav.navbar {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
     flex-direction: row;
     padding: .75rem 1.5rem;
-    box-shadow: @box-shadow-1;
+    box-shadow: @nav-shadow;
     position: fixed;
     z-index: 100;
     background-color: @white;
@@ -62,6 +64,7 @@ nav.navbar {
 
             .dropdown-menu {
                 top: 3.5rem !important;
+                box-shadow: @nav-shadow !important;
 
                 /deep/ .nav-link {
                     padding: .5rem 1rem;
