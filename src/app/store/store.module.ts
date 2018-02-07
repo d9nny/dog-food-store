@@ -9,7 +9,18 @@ import { StoreComponent } from './store/store.component';
 import { ProductCardComponent } from './product-card/product-card.component';
 
 const routes: Routes = [
-    { path: 'shop/:id',  component: StoreComponent }
+    {
+        path: 'shop',
+        children: [
+            {
+                path: ':id',
+                component: StoreComponent,
+                resolve: {
+                    products: StoreService
+                }
+            }
+        ]
+    }
 ];
 
 @NgModule({

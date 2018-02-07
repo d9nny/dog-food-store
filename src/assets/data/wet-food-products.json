@@ -1,30 +1,98 @@
 [
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
+        "title": "Applaws Chicken,salmon and Vegetable dog food",
+        "description": "Applaws Chicken, Salmon and Vegetable dog food 156gm tin is a complimentary premium dog food. Applaws is really different it only uses the ingredients listed, nothing else is added. It has a high meat content and is 100% natural! Our chicken is fresh chicken breast not chicken derivatives. The recipe has been created for your dog to enjoy and to build their health.",
+        "sku": "WF001",
+        "size": "156g Tin",
+        "price": 1.79,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/23881PL.jpg"
+    },
+    {
+        "title": "Naturediet Chicken with Vegetables and Rice Dog Food",
+        "description": "Naturediet produces high quality pet food that is both healthy and nutritious. Using only the finest quality natural ingredients, Naturediet menus are made without artificial preservatives, colourings or flavourings. Based on holistic principles, Naturediet blends only the most suitable ingredients for a natural approach to overall health and digestion. Using only the highest quality natural ingredients, Naturediet Chicken is a complete feed containing all the essential nutrients your dog needs for a healthy diet. This white meat diet is highly palatable and is suitable for adult and senior dogs as well as those with a sensitive digestion. Naturediet Chicken contains no artificial preservatives, colourings or flavourings. We use only freshly prepared chicken and only chicken meat reducing the risk of allergy. This menu is also wheat gluten free.",
+        "sku": "WF002",
+        "size": "390g Pack",
+        "price": 1.39,
         "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
+        "title": "Arden Grange Partners Fresh Chicken with Rice Adult Dog Food",
+        "description": "This Partners Adult Fresh Chicken with Rice is Partners super-premium complete wet food range from Arden Grange that contains natural succulent fresh meat, fish, vegetables, vitamins and minerals delivering a balanced, nutritious and wholesome meal for your dog. Completely wheat and wheat-gluten free, Arden Grange Partners is a range of naturally hypoallergenic dog foods, which are gentle and easily digested and may help prevent potential allergic reactions.",
+        "sku": "WF003",
+        "size": "6 x 395g Tins",
+        "price": 7.79,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/38125PL.jpg"
+    },
+    {
+        "title": "Wainwright's Adult Complete Wet Dog Food Trays with Duck and Rice",
+        "description": "Wainwright's adult dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 1-7 years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. When feeding as a tasty topper to Wainwright's dry kibble ensure that the total nutritional amount fed does not exceed your dog's daily nutritional requirements. 100% satisfaction guarantee.",
+        "sku": "WF004",
+        "size": "12 x 395g Trays",
+        "price": 10.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/26516PL.jpg"
+    },
+    {
+        "title": "Spencers Deli Chicken with Beef Dog Food Tins",
+        "description": "Spencers Deli Chicken with Beef Dog Food Tin 156g is a fine dining experience for your dog! Spencers Deli is the delicatessen for dogs with refined tastes and the chicken and vegetable pouch is ideal as a complementary treat or topping as part of your dogs balanced diet. Not suitable for puppies under 9 months old. Once opened cover and refrigerate any unused food. Consume within 24 hours of opening. Best served and room temperature and remember dogs need lots of fresh water.",
+        "sku": "WF005",
+        "size": "156g Tin",
+        "price": 1.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/26516PL.jpg"
+    },
+    {
+        "title": "Winalot Senior in Jelly",
+        "description": "Spencers Deli Chicken with Beef Dog Food Tin 156g is a fine dining experience for your dog! Spencers Deli is the delicatessen for dogs with refined tastes and the chicken and vegetable pouch is ideal as a complementary treat or topping as part of your dogs balanced diet. Not suitable for puppies under 9 months old. Once opened cover and refrigerate any unused food. Consume within 24 hours of opening. Best served and room temperature and remember dogs need lots of fresh water.",
+        "sku": "WF006",
+        "size": " 6 x 400g Tins",
+        "price": 5.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/29022PL.jpg"
+    },
+        {
+        "title": "Applaws Chicken,salmon and Vegetable dog food",
+        "description": "Applaws Chicken, Salmon and Vegetable dog food 156gm tin is a complimentary premium dog food. Applaws is really different it only uses the ingredients listed, nothing else is added. It has a high meat content and is 100% natural! Our chicken is fresh chicken breast not chicken derivatives. The recipe has been created for your dog to enjoy and to build their health.",
+        "sku": "WF007",
+        "size": "156g Tin",
+        "price": 1.79,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/23881PL.jpg"
+    },
+    {
+        "title": "Naturediet Chicken with Vegetables and Rice Dog Food",
+        "description": "Naturediet produces high quality pet food that is both healthy and nutritious. Using only the finest quality natural ingredients, Naturediet menus are made without artificial preservatives, colourings or flavourings. Based on holistic principles, Naturediet blends only the most suitable ingredients for a natural approach to overall health and digestion. Using only the highest quality natural ingredients, Naturediet Chicken is a complete feed containing all the essential nutrients your dog needs for a healthy diet. This white meat diet is highly palatable and is suitable for adult and senior dogs as well as those with a sensitive digestion. Naturediet Chicken contains no artificial preservatives, colourings or flavourings. We use only freshly prepared chicken and only chicken meat reducing the risk of allergy. This menu is also wheat gluten free.",
+        "sku": "WF008",
+        "size": "390g Pack",
+        "price": 1.39,
         "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "Arden Grange Partners Fresh Chicken with Rice Adult Dog Food",
+        "description": "This Partners Adult Fresh Chicken with Rice is Partners super-premium complete wet food range from Arden Grange that contains natural succulent fresh meat, fish, vegetables, vitamins and minerals delivering a balanced, nutritious and wholesome meal for your dog. Completely wheat and wheat-gluten free, Arden Grange Partners is a range of naturally hypoallergenic dog foods, which are gentle and easily digested and may help prevent potential allergic reactions.",
+        "sku": "WF009",
+        "size": "6 x 395g Tins",
+        "price": 7.79,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/38125PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "Wainwright's Adult Complete Wet Dog Food Trays with Duck and Rice",
+        "description": "Wainwright's adult dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 1-7 years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. When feeding as a tasty topper to Wainwright's dry kibble ensure that the total nutritional amount fed does not exceed your dog's daily nutritional requirements. 100% satisfaction guarantee.",
+        "sku": "WF0010",
+        "size": "12 x 395g Trays",
+        "price": 10.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/26516PL.jpg"
     },
+    {
+        "title": "Spencers Deli Chicken with Beef Dog Food Tins",
+        "description": "Spencers Deli Chicken with Beef Dog Food Tin 156g is a fine dining experience for your dog! Spencers Deli is the delicatessen for dogs with refined tastes and the chicken and vegetable pouch is ideal as a complementary treat or topping as part of your dogs balanced diet. Not suitable for puppies under 9 months old. Once opened cover and refrigerate any unused food. Consume within 24 hours of opening. Best served and room temperature and remember dogs need lots of fresh water.",
+        "sku": "WF0011",
+        "size": "156g Tin",
+        "price": 1.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/26516PL.jpg"
+    },
+    {
+        "title": "Winalot Senior in Jelly",
+        "description": "Spencers Deli Chicken with Beef Dog Food Tin 156g is a fine dining experience for your dog! Spencers Deli is the delicatessen for dogs with refined tastes and the chicken and vegetable pouch is ideal as a complementary treat or topping as part of your dogs balanced diet. Not suitable for puppies under 9 months old. Once opened cover and refrigerate any unused food. Consume within 24 hours of opening. Best served and room temperature and remember dogs need lots of fresh water.",
+        "sku": "WF0012",
+        "size": " 6 x 400g Tins",
+        "price": 5.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/29022PL.jpg"
+    }
 ]

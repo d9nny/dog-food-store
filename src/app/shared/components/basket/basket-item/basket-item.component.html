@@ -1,16 +1,18 @@
 <div class="product-container row no-gutters vertical-align"
      *ngIf="item">
-    <div class="col-5">
+    <div class="col-6">
         <small class="title">{{ item.product.title }}<br/>{{ item.product.size }}</small>
     </div>
     <div class="col-2">
-        <input name="quantity"
-               class="form-control"
-               type="number"
-               [(ngModel)]="item.qty"
-               (change)="updateBasket()">
+        <span class="qty">
+            <input name="quantity"
+                   class="form-control"
+                   type="number"
+                   [(ngModel)]="item.qty"
+                   (change)="updateBasket()">
+        </span>
     </div>
-    <div class="col-4">
+    <div class="col-3">
         <span class="price">{{ item.product.price * item.qty * exchangeRate | currency: currentCurrency :true:'1.2-2' }}</span>
     </div>
     <div class="col-1">

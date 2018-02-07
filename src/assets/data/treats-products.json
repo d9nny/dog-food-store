@@ -1,30 +1,124 @@
 [
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "8in1 Delights Bones Extra Small 7 pack",
+        "description": "8in1 Delights Bones Extra Small 7 pack are Original bones with chicken meat. Delicious chicken wrapped in tough premium rawhide. The unique combination of chew and treat! A unique, patented product. Cleans teeth. Reduces plaque and prevents tartar build-up. Satisfies a dogs natural chewing instinct. Hours of chewing fun with no leftovers. Only 2% fat. No artificial colours or flavours.",
+        "sku": "T001",
+        "size": "126g Pack",
+        "price": 4.49,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/33572PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "Misfits Tangly Twists Chicken and Egg",
+        "description": "Misfits Tangly Twists Chicken and Egg are treats full of character for dogs full of character! We love our dogs because they are one-in-a-million, legendary characters! We know they are too busy chasing squirrels or snaffling socks to worry about the perfectly shaped treat, so neither do we. You will both love to play with our Tangly Twists. Untangle, unwind and undo; then dogs get stuck in and chew! Why could the egg not become a comedian£ He was not very good at cracking yolks£ Think you can do better£ Come and crack your chicken and egg jokes with us at facebook.com/misfitsdogs - just do not be fowl!",
+        "sku": "T002",
+        "size": "140g Pack",
+        "price": 1.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/36932PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "Pedigree Rodeo Dog Treats with Beef 8 Chews",
+        "description": "Dogs love to discover - Rodeo chews are tasty and twisted dog treats, perfect for everyday treating. Their unique twisted shape gives them a deliciously chewy texture that makes for enjoyable play times and bonding moments. Rodeo chews have added Omega 3, vitamins and minerals, and contain no artificial colours or flavours, so you can feel good about it too! By living life to the full, dogs help us enjoy the simple joys of everyday life. The treats we feed our pets, as a reward, to bond, train or just play, are the little ways we celebrate the joy they bring to us. With the help of nutritionists and vets at Waltham Centre for Pet Nutrition, Pedigree has created a varied range of tasty dog treats that come in all shapes, sizes and textures. All to keep dogs exuberant, the way we love them. At Pedigree, we believe that dogs are good for us. Every day, their wonderful innocence brings out the good in us. The Pedigree complete range of tasty and wholesome dog food and dog treats delivers everything that is essential to support and fuel all dogs' exuberant love of life. So that day after day, dog owners can feed the good in their dogs.",
+        "sku": "T003",
+        "size": "140g Pack",
+        "price": 1.69,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27054PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "Pepper's Crunchy Chicken Dumbells Dog Treats With Chicken",
+        "description": "Pepper's range of tasty meaty treats is just what's needed to let your dog know how much you love them. These tasty munchy sticks with delicious chicken balls will make the perfect treat for your dog. With yummy combinations of meat, raw hide and delicious natural ingredients help make Pepper's treats crazily irresistible and full of goodness. Perfectly scrumptious meaty treats.",
+        "sku": "T004",
+        "size": "100g Pack",
+        "price": 3.49,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/25002PL.jpg"
     },
+    {
+        "title": "Deli Duck Fillets Dog Treats",
+        "description": "Treat your dog with the delectable Duck Fillets dog treats by Deli. Packed with moist, delicious duck, these treats will have your dog drooling and begging for more!",
+        "sku": "T005",
+        "size": "100g Pack",
+        "price": 3.19,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27075PL.jpg"
+    },
+        {
+        "title": "8in1 Delights Bones Extra Small 7 pack",
+        "description": "8in1 Delights Bones Extra Small 7 pack are Original bones with chicken meat. Delicious chicken wrapped in tough premium rawhide. The unique combination of chew and treat! A unique, patented product. Cleans teeth. Reduces plaque and prevents tartar build-up. Satisfies a dogs natural chewing instinct. Hours of chewing fun with no leftovers. Only 2% fat. No artificial colours or flavours.",
+        "sku": "T006",
+        "size": "126g Pack",
+        "price": 4.49,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/33572PL.jpg"
+    },
+    {
+        "title": "Misfits Tangly Twists Chicken and Egg",
+        "description": "Misfits Tangly Twists Chicken and Egg are treats full of character for dogs full of character! We love our dogs because they are one-in-a-million, legendary characters! We know they are too busy chasing squirrels or snaffling socks to worry about the perfectly shaped treat, so neither do we. You will both love to play with our Tangly Twists. Untangle, unwind and undo; then dogs get stuck in and chew! Why could the egg not become a comedian£ He was not very good at cracking yolks£ Think you can do better£ Come and crack your chicken and egg jokes with us at facebook.com/misfitsdogs - just do not be fowl!",
+        "sku": "T007",
+        "size": "140g Pack",
+        "price": 1.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/36932PL.jpg"
+    },
+    {
+        "title": "Pedigree Rodeo Dog Treats with Beef 8 Chews",
+        "description": "Dogs love to discover - Rodeo chews are tasty and twisted dog treats, perfect for everyday treating. Their unique twisted shape gives them a deliciously chewy texture that makes for enjoyable play times and bonding moments. Rodeo chews have added Omega 3, vitamins and minerals, and contain no artificial colours or flavours, so you can feel good about it too! By living life to the full, dogs help us enjoy the simple joys of everyday life. The treats we feed our pets, as a reward, to bond, train or just play, are the little ways we celebrate the joy they bring to us. With the help of nutritionists and vets at Waltham Centre for Pet Nutrition, Pedigree has created a varied range of tasty dog treats that come in all shapes, sizes and textures. All to keep dogs exuberant, the way we love them. At Pedigree, we believe that dogs are good for us. Every day, their wonderful innocence brings out the good in us. The Pedigree complete range of tasty and wholesome dog food and dog treats delivers everything that is essential to support and fuel all dogs' exuberant love of life. So that day after day, dog owners can feed the good in their dogs.",
+        "sku": "T008",
+        "size": "140g Pack",
+        "price": 1.69,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27054PL.jpg"
+    },
+    {
+        "title": "Pepper's Crunchy Chicken Dumbells Dog Treats With Chicken",
+        "description": "Pepper's range of tasty meaty treats is just what's needed to let your dog know how much you love them. These tasty munchy sticks with delicious chicken balls will make the perfect treat for your dog. With yummy combinations of meat, raw hide and delicious natural ingredients help make Pepper's treats crazily irresistible and full of goodness. Perfectly scrumptious meaty treats.",
+        "sku": "T009",
+        "size": "100g Pack",
+        "price": 3.49,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/25002PL.jpg"
+    },
+    {
+        "title": "Deli Duck Fillets Dog Treats",
+        "description": "Treat your dog with the delectable Duck Fillets dog treats by Deli. Packed with moist, delicious duck, these treats will have your dog drooling and begging for more!",
+        "sku": "T010",
+        "size": "100g Pack",
+        "price": 3.19,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27075PL.jpg"
+    },
+        {
+        "title": "8in1 Delights Bones Extra Small 7 pack",
+        "description": "8in1 Delights Bones Extra Small 7 pack are Original bones with chicken meat. Delicious chicken wrapped in tough premium rawhide. The unique combination of chew and treat! A unique, patented product. Cleans teeth. Reduces plaque and prevents tartar build-up. Satisfies a dogs natural chewing instinct. Hours of chewing fun with no leftovers. Only 2% fat. No artificial colours or flavours.",
+        "sku": "T011",
+        "size": "126g Pack",
+        "price": 4.49,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/33572PL.jpg"
+    },
+    {
+        "title": "Misfits Tangly Twists Chicken and Egg",
+        "description": "Misfits Tangly Twists Chicken and Egg are treats full of character for dogs full of character! We love our dogs because they are one-in-a-million, legendary characters! We know they are too busy chasing squirrels or snaffling socks to worry about the perfectly shaped treat, so neither do we. You will both love to play with our Tangly Twists. Untangle, unwind and undo; then dogs get stuck in and chew! Why could the egg not become a comedian£ He was not very good at cracking yolks£ Think you can do better£ Come and crack your chicken and egg jokes with us at facebook.com/misfitsdogs - just do not be fowl!",
+        "sku": "T012",
+        "size": "140g Pack",
+        "price": 1.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/36932PL.jpg"
+    },
+    {
+        "title": "Pedigree Rodeo Dog Treats with Beef 8 Chews",
+        "description": "Dogs love to discover - Rodeo chews are tasty and twisted dog treats, perfect for everyday treating. Their unique twisted shape gives them a deliciously chewy texture that makes for enjoyable play times and bonding moments. Rodeo chews have added Omega 3, vitamins and minerals, and contain no artificial colours or flavours, so you can feel good about it too! By living life to the full, dogs help us enjoy the simple joys of everyday life. The treats we feed our pets, as a reward, to bond, train or just play, are the little ways we celebrate the joy they bring to us. With the help of nutritionists and vets at Waltham Centre for Pet Nutrition, Pedigree has created a varied range of tasty dog treats that come in all shapes, sizes and textures. All to keep dogs exuberant, the way we love them. At Pedigree, we believe that dogs are good for us. Every day, their wonderful innocence brings out the good in us. The Pedigree complete range of tasty and wholesome dog food and dog treats delivers everything that is essential to support and fuel all dogs' exuberant love of life. So that day after day, dog owners can feed the good in their dogs.",
+        "sku": "T013",
+        "size": "140g Pack",
+        "price": 1.69,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27054PL.jpg"
+    },
+    {
+        "title": "Pepper's Crunchy Chicken Dumbells Dog Treats With Chicken",
+        "description": "Pepper's range of tasty meaty treats is just what's needed to let your dog know how much you love them. These tasty munchy sticks with delicious chicken balls will make the perfect treat for your dog. With yummy combinations of meat, raw hide and delicious natural ingredients help make Pepper's treats crazily irresistible and full of goodness. Perfectly scrumptious meaty treats.",
+        "sku": "T014",
+        "size": "100g Pack",
+        "price": 3.49,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/25002PL.jpg"
+    },
+    {
+        "title": "Deli Duck Fillets Dog Treats",
+        "description": "Treat your dog with the delectable Duck Fillets dog treats by Deli. Packed with moist, delicious duck, these treats will have your dog drooling and begging for more!",
+        "sku": "T015",
+        "size": "100g Pack",
+        "price": 3.19,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27075PL.jpg"
+    }
 ]
+
+

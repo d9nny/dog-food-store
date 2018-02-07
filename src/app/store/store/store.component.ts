@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, HostListener } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
 import { StoreService } from '../service/store.service';
@@ -13,20 +13,27 @@ export class StoreComponent implements OnInit {
 
     public error = false;
     public products: Product[];
+    public mobileScreen = false;
 
     constructor(private route: ActivatedRoute,
                 private storeService: StoreService) {}
 
-    ngOnInit() {
-        const id = this.route.snapshot.paramMap.get('id');
 
-        this.storeService.getProducts(id)
-            .subscribe(
-                (products: Product[]) => {
-                    this.error = false;
-                    this.products = products;
-                },
-                err => this.error = true);
+    @HostListener('window:resize')
+        onWindowResize() {
+            this.getWindow();
+        }
+
+    getWindow() {
+        if (window.innerWidth < 576) { this.mobileScreen = true; }
+    }
+
+    ngOnInit() {
+        this.getWindow();
+        this.route.data
+            .subscribe((data: { products: Product[] }) => {
+                this.products = data.products;
+            });
     }
 
 }

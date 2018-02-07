@@ -1,30 +1,130 @@
 [
     {
-        "title": "Dry dog food",
+        "title": "Barking Heads Fusspot",
         "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
+        "size": "2kg Bag",
+        "description": "This Barking Heads Fusspot 2kg is a scrumptious adult salmon complete dog food that we are sure your dog will adore. Some of the fussiest dogs we know just love it! No more trying to encourage your fussy eater, instead you will be left with a clean empty bowl! Its just a shame there wont be any left for you! Approximate Dimensions (Product): 38 x 21 x 11cm",
+        "price": 11.99,
         "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
+        "title": "Wainwright's Adult Large Breed Complete Dry Dog Food Lamb and Rice",
+        "sku": "DF002",
+        "size": "15kg Bag",
+        "description": "Wainwright's adult dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 1-7 years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. Large breeds have unique nutritional needs so our recipe has been specially developed to help promote healthy joints and overall wellbeing. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 35.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7100120PL.jpg"
+    },
+    {
+        "title": "Skinner's Ruff and Ready Complete Dog Food",
+        "sku": "DF003",
+        "size": "15kg Bag",
+        "description": "Skinners Ruff and Ready is a complete adult dog food. Ruff and Ready is a beef based food containing a mix of real meat, cooked cereals and crunchy biscuits.",
+        "price": 28.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27085PL.jpg"
+    },
+    {
+        "title": "Wainwright's Mature Complete Dry Dog Food with Turkey and Rice",
+        "sku": "DF004",
+        "size": "2kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 7.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/P1051L.jpg"
+    },
+    {
+        "title": "Royal Canin Shih Tzu Junior Dog Food",
+        "sku": "DF005",
+        "size": "1.5kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 12.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7102555PL.jpg"
+    },
+    {
+        "title": "Vitalin Original Dog Food",
+        "sku": "DF006",
+        "size": "15kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 11.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7457PL.jpg"
+    },
+    {
+        "title": "Bakers Meaty Meals Chicken",
+        "sku": "DF007",
         "size": "1kg Bag",
-        "price": 0.95,
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 3.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/31171PL.jpg"
+    },
+    {
+        "title": "Meaty Meals Chicken",
+        "sku": "DF008",
+        "size": "1kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 3.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/31171PL.jpg"
+    },
+    {
+        "title": "Barking Heads Fusspot",
+        "sku": "DF009",
+        "size": "2kg Bag",
+        "description": "This Barking Heads Fusspot 2kg is a scrumptious adult salmon complete dog food that we are sure your dog will adore. Some of the fussiest dogs we know just love it! No more trying to encourage your fussy eater, instead you will be left with a clean empty bowl! Its just a shame there wont be any left for you! Approximate Dimensions (Product): 38 x 21 x 11cm",
+        "price": 11.99,
         "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "Wainwright's Adult Large Breed Complete Dry Dog Food Lamb and Rice",
+        "sku": "DF010",
+        "size": "15kg Bag",
+        "description": "Wainwright's adult dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 1-7 years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. Large breeds have unique nutritional needs so our recipe has been specially developed to help promote healthy joints and overall wellbeing. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 35.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7100120PL.jpg"
     },
     {
-        "title": "Dry dog food",
-        "sku": "DF001",
-        "size": "1kg Bag",
-        "price": 0.95,
-        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7101184PL.jpg"
+        "title": "Skinner's Ruff and Ready Complete Dog Food",
+        "sku": "DF011",
+        "size": "15kg Bag",
+        "description": "Skinners Ruff and Ready is a complete adult dog food. Ruff and Ready is a beef based food containing a mix of real meat, cooked cereals and crunchy biscuits.",
+        "price": 28.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/27085PL.jpg"
     },
+    {
+        "title": "Wainwright's Mature Complete Dry Dog Food with Turkey and Rice",
+        "sku": "DF012",
+        "size": "2kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 7.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/P1051L.jpg"
+    },
+    {
+        "title": "Royal Canin Shih Tzu Junior Dog Food",
+        "sku": "DF013",
+        "size": "1.5kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 12.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7102555PL.jpg"
+    },
+    {
+        "title": "Vitalin Original Dog Food",
+        "sku": "DF014",
+        "size": "15kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 11.99,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/7457PL.jpg"
+    },
+    {
+        "title": "Bakers Meaty Meals Chicken",
+        "sku": "DF015",
+        "size": "1kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 3.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/31171PL.jpg"
+    },
+    {
+        "title": "Meaty Meals Chicken",
+        "sku": "DF016",
+        "size": "1kg Bag",
+        "description": "Wainwright's mature dog food is a complete, nutritionally balanced dry food for your dog, suitable for ages 7+ years. Exclusive to Pets at Home, Wainwright's recipes are proudly developed in the UK. Wainwright's isn't like other dog foods. We don't use any ingredients known to commonly cause allergies in dogs such as wheat or mixed meat proteins. In fact, everything that goes into Wainwright's is nutritious, delicious, easily digested and hypo-allergenic. The result provides all the proteins, fatty acids, carbohydrates, vitamins and minerals your dog needs. No wonder Wainwright's is a dog's best friend! Not suitable for puppies under 6 months old. When feeding for the first time introduce gradually over 7 - 10 days. Always ensure clean water is available. It can take between 3-8 weeks to see the full benefit of feeding Wainwright's to your pet. 100% satisfaction guarantee.",
+        "price": 3.29,
+        "thumbnailUrl": "http://media.petsathome.com/wcsstore/pah-cas01//300/31171PL.jpg"
+    }
 ]
