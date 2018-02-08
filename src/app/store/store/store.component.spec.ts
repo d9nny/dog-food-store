@@ -1,49 +1,59 @@
 import { TestBed, ComponentFixture, async, inject  } from '@angular/core/testing';
 import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
+import { HttpModule } from '@angular/http';
+import { RouterModule, Routes, Router, ActivatedRoute } from '@angular/router';
+import { RouterTestingModule } from '@angular/router/testing';
 
 import { StoreComponent } from './store.component';
-import { ProductCardComponent } from './product-card/product-card.component';
+import { ProductCardComponent } from '../product-card/product-card.component';
 
-import { StoreService } from './shared/services/store-service/store.service';
+import { StoreService } from '../service/store.service';
 
-describe('AppComponent', () => {
-    let component: AppComponent,
+
+describe('StoreComponent', () => {
+    let component: StoreComponent,
         fixture: ComponentFixture<StoreComponent>,
-        storeService,
         spy;
 
     beforeEach(async(() => {
         TestBed.configureTestingModule({
             imports: [
                 BrowserModule,
+                FormsModule,
+                RouterModule,
+                RouterTestingModule,
+                HttpModule
             ],
             declarations: [
                 StoreComponent,
                 ProductCardComponent
             ],
             providers: [
-                { provide: StoreService, useClass: MockStoreService },
+                StoreService
             ]
         })
         .compileComponents();
     }));
 
     beforeEach(() => {
-        fixture = TestBed.createComponent(AppComponent);
-        storeService = fixture.debugElement.injector.get(StoreService);
+        fixture = TestBed.createComponent(StoreComponent);
         component = fixture.debugElement.componentInstance;
         fixture.detectChanges();
     });
 
-    it('should create the store', async(() => {
+    it('should create the store', () => {
         expect(component).toBeTruthy();
-    }));
+    });
 
-    it('should get products', async(() => {
-        spy = spyOn(storeService, 'getProducts');
-        expect(storeService.getProducts).toHaveBeenCalledWith('dry-food');
-        expect(component.products.length).toBeGreaterThan(0);
-    }));
+    // it('should call getWindow', async(() => {
+    //     spy = spyOn(component, 'getWindow');
+    //     expect(component.getWindow).toHaveBeenCalled();
+    // }));
+
+    // it('should have products', () => {
+    //     expect(component.products.length).toBeGreaterThan(0);
+    // });
 
 });

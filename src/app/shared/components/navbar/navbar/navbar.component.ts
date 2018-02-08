@@ -13,8 +13,9 @@ import { BasketService } from '../../basket/service/basket.service';
 export class NavbarComponent implements OnInit {
 
     private isNavbarCollapsed = true;
-    private subscription: Subscription
-    private basketCount = 0;
+    private subscription: Subscription;
+
+    public basketCount = 0;
 
     constructor(private basketService: BasketService) {
         this.subscription = this.basketService.getBasket()
